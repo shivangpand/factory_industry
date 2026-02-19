@@ -3,6 +3,15 @@
 
 @media  screen and (max-width:480px){
 
+
+
+html, body {
+    overflow-x: hidden !important;
+}
+
+
+
+
     .container1{
         display: block !important;
         height: 100px;
